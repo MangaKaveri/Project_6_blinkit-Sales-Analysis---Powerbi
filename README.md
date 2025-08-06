@@ -1,6 +1,7 @@
 # Project_6_blinkit_Sales_Analysis-Powerbi
 
-Project Objective: To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+## Project Objective:                                                                                                                                      
+To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 ## Steps in Project-                                                                                                                                                         
 
